@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 MAINTAINER Chanchan <ysyfrank@gmail.com>
 
 WORKDIR /home/project
